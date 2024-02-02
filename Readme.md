@@ -8,3 +8,9 @@ For more information head over to the website.
 I fount the [learn latex in 30 mins](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX?) Very useful. 
 
 Thank you for taking a look. 
+
+Thank you 
+
+Scott Harvey-Whittle
+Open University Student
+Bsc (honours) Computing and IT
