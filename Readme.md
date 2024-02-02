@@ -11,6 +11,6 @@ Thank you for taking a look.
 
 Thank you 
 
-Scott Harvey-Whittle
-Open University Student
-Bsc (honours) Computing and IT
+## Scott Harvey-Whittle
+### Open University Student
+### Bsc (honours) Computing and IT
