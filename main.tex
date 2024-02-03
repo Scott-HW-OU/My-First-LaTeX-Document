@@ -1,4 +1,4 @@
-\documentclass[12pt,a4paper]{article}
+\documentclass[12pt,a4paper,landscape]{article}
 \usepackage{mathtools,graphicx,url,xparse}
 \title{My First \LaTeX{} Document}
 \author{Scott Harvey-Whittle\thanks {The Open University Student}}
@@ -6,6 +6,8 @@
 \graphicspath{images/}
 \begin{document}
 \maketitle
+\begin{flushleft}
+    
 
 \section{\textbf{Bold},\textit{Italics}, \underline{underlines}, and \emph{emph}}
 Some of the \textbf{greatest}
@@ -80,6 +82,8 @@ To use the inline math tool we use the Dollar sign at the beginning and the end 
 
 \includegraphics{Inline Math Example.PNG}
 
+
+
 Notice that the output of this looks as follows:
 
 In physics, the mass-energy equivalence is stated 
@@ -112,7 +116,10 @@ Mathematical operators are prefixed with a backslash as $\sin(\beta)$, $\cos(\al
 
 The above was written as follows:
 
-\includegraphics{Math Example Bits and Bobs.PNG}
+\includegraphics[scale=0.4]{Math Example Bits and Bobs.PNG} 
+ 
+
+
 
 \section{Basic Math Functions}
 Here is a Few Examples of Basic Math Functions
@@ -136,4 +143,9 @@ Subscript uses underscores while superscript uses the arrow pointing up. This ar
 You can get a Square root by typing backslash then sqrt then open curly brackets followed by Number then closed curly brackets. 
 $$\sqrt{36}$$
 \subsection{Pie}
+To Enter Pie you enter backslash pi 
+Here is an example
+
+$$\pi$$
+\end{flushleft}
 \end{document}
